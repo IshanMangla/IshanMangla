@@ -52,7 +52,7 @@ I specialize in solving business problems through data-driven insights, structur
 
 ### **1️⃣ Retail Sales Dashboard**
 📁 Repository: `retail-sales-dashboard`  
-▶ End-to-end analytics project with revenue insights, SQL queries, and dashboards.
+End-to-end analytics project with revenue insights, SQL queries, and dashboards.
 
 ### **2️⃣ Banking Customer Churn Prediction**  
 Predict churn using machine learning & business analysis.
