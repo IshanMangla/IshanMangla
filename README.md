@@ -5,8 +5,7 @@
 
 ### ⭐ Building a data-driven journey — turning insights into impact 📊
 ---
-I'm a results-driven **Data Analyst** with a strong foundation in  
-**SQL, Statistics, Spreadsheets, Python, and Business Problem Solving**.  
+I'm a results-driven **Data Analyst** with a strong foundation in **SQL, Statistics, Spreadsheets, Python, and Business Problem Solving**.  
 
 After completing **3 years as a Full Stack Software Developer at MIND, Noida**, I transitioned into **Data Analytics**,
 leveraging my strong technical foundation and domain expertise across **Retail, Banking, and Insurance domains**
