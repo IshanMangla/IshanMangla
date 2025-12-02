@@ -8,9 +8,8 @@
 I'm a results-driven **Data Analyst** with a strong foundation in  
 **SQL, Statistics, Spreadsheets, Python, and Business Problem Solving**.  
 
-I bring **3 years of experience** as a **Full Stack Software Developer at MIND, Noida**, 
-and I have now transitioned into **Data Analytics**, leveraging my strong technical foundation 
-and domain expertise across **Retail, Banking, and Insurance** business domains. 
+After completing **3 years as a Full Stack Software Developer at MIND, Noida**, I transitioned into **Data Analytics**,
+leveraging my strong technical foundation and domain expertise across **Retail, Banking, and Insurance domains**
 
 I specialize in solving business problems through data-driven insights, structured analytical thinking, and clear Storytelling.
 
