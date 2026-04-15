@@ -38,8 +38,8 @@ I specialize in solving business problems through data-driven insights, structur
 - Google Sheets / Excel  
 - Power BI  
 - Tableau Public  
-- Python (Pandas, NumPy, Matplot lib)  
-- Jupyter Notebook / Google Colab  
+- Python (Pandas, NumPy, Matplot, Plotly, Seaborn, Statsmodels, Scikit-learn, XGBoost, LightGBM, Streamlit, Dash lib)  
+- Jupyter Notebook / Google Colab / VS Code
 
 ### **Soft Skills**
 - Problem Structuring (Top-Down Framework)
