@@ -84,7 +84,7 @@ Open for freelance projects in:
 Feel free to check my projects, contribute, or connect professionally.
 
 📧 **Email:**   **the.ishan.analytics@gmail.com**
-💼 **LinkedIn:** ** ** 
+💼 **LinkedIn:**https://www.linkedin.com/in/ishanmangla ** ** 
 
 ---
 
